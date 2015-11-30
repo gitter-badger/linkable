@@ -4,7 +4,7 @@ Linkable is a framework for performing digital actions. Digital actions include 
 
 Linkable uses a node graph to represent the procedural logic by which these digital actions are to be performed. A single node performs a single digital action and outputs data from its output port. Links can be used to direct the output data to an input port on another node. 
 
-All of our nodes can be linked with other nodes, hence the name Linkable.
+Unlinke other node graphs, all of our nodes can be linked with any other node. Hence the name Linkable.
 
 === Development ===
 
