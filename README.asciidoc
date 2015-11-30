@@ -2,13 +2,13 @@
 
 Linkable is a framework for performing digital actions. Digital actions include things like web browsing, controlling smart home devices, and video game play.
 
-Linkable uses a node graph to represent the procedural logic by which these digital actions are to be performed. A single node performs a single digital actions and outputs data from its output port. Links can be used to direct the output data to an input port on another node. 
+Linkable uses a node graph to represent the procedural logic by which these digital actions are to be performed. A single node performs a single digital action and outputs data from its output port. Links can be used to direct the output data to an input port on another node. 
 
-This is where the project's name Linkable comes from.
+All of our nodes can be linked with other nodes, hence the name Linkable.
 
 === Development ===
 
-Developer notes will be on the https://github.com/shingotakagi/gaffer/wiki[project wiki].
+Developer notes will be on the https://github.com/shingotakagi/linkable/wiki[project wiki].
 
 Bug reporting and discussion of features currently implemented in Linkable should be done on the https://github.com/shingotakagi/linkable/issues[issues page].
 
