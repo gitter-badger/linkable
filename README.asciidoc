@@ -1,5 +1,7 @@
 == Linkable ==
 
+image:https://badges.gitter.im/Join%20Chat.svg[link="https://gitter.im/shingotakagi/linkable?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
+
 Linkable is a framework for performing digital actions. Digital actions include things like web browsing, controlling smart home devices, and video game play.
 
 Linkable uses a node graph to represent the procedural logic by which these digital actions are to be performed. A single node performs a single digital action and outputs data from its output port. Links can be used to direct the output data to an input port on another node. 
